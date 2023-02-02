@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Inter';
+    src: url('../fonts/inter/Inter-Regular.otf'), url('../fonts/inter/Inter-Regular.woff');
+    
+}
+
+/* Полужирный */
+@font-face {
+    font-family: 'Inter bold';
+    src: url('../fonts/inter/Inter-Bold.otf'), url('../fonts/inter/Inter-Bold.woff');
+    font-weight: bold;
+}
+
+/* Курсив */
+@font-face {
+    font-family: 'Inter italic';
+    src: url('../fonts/inter/Inter-Italic.otf'), url('../fonts/inter/Inter-Italic.woff');
+    font-style: italic;
+}
+
+/* Полужирный курсив */
+@font-face {
+    font-family: 'Inter bold-italic';
+    src: url('../fonts/inter/Inter-BoldItalic.otf'), url('../fonts/inter/Inter-BoldItalic.woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Inter light';
+    src: url('../fonts/inter/Inter-Light.otf'), url('../fonts/inter/Inter-Light.woff');
+    
+}
+
+@font-face {
+    font-family: 'Inter extralight';
+    src: url('../fonts/inter/Inter-ExtraLight.otf'), url('../fonts/inter/Inter-ExtraLight.woff');
+    font-weight: lighter;
+}
