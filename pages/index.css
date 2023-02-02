@@ -38,9 +38,11 @@
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__website/_link/place__website_link.css);
-@import url(../blocks/place/__website/_url-heading/place__website_url-heading.css);
 @import url(../blocks/place/__container/place__container.css);
+
+@import url(../blocks/website/website.css);
+@import url(../blocks/website/__link/website__link.css);
+@import url(../blocks/website/__url-heading/website__url-heading.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__background/cover__background.css);
