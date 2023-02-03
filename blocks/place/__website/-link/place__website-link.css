@@ -1,4 +1,4 @@
-.website__link{
+.place__website-link{
     font-family: 'Inter light';
     font-weight: 400;
     font-size: 18px;
@@ -7,7 +7,7 @@
     color: #FFFFFF;
 }
 
-.website__link:hover{
+.place__website-link:hover{
     color: #FFFFFF;
     opacity: 0.8;
     text-decoration-line: underline;
