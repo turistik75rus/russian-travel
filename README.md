@@ -3,8 +3,9 @@
 ### Практическая работа от Яндекса
 
 Впервые верстали макет из Figma и пользовались такими свойствами как:
-*grid
-*flex
+
+* grid
+* flex
 
 Вот ссылка на сайт - https://turistik75rus.github.io/russian-travel/ 
 
