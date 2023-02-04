@@ -1,11 +1,3 @@
 .header__link_active{
-    margin-right: 18px;
-    max-width: 30px;
     text-decoration: underline;
-}
-
-@media screen and (max-width: 768px) {
-    .header__link_active{
-        max-width: 22px;
-    }
 }

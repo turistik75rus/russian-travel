@@ -1,9 +1,24 @@
 .cover__background{
     width: 100%;
-    object-fit: initial;
+    text-decoration: none;
+    color: #FFFFFF;;
+    display: inline-block;
+    height: 100%;
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
 }
 
+
 .cover__background:hover{
+    background: #2A2C2F;
+    opacity: 0.8;
+}
+
+.cover__background:hover::before{
     background: #2A2C2F;
     opacity: 0.3;
 }

@@ -1,12 +1,12 @@
 .intro__title{
-    font-family: 'Inter Black';
+    font-family: 'Inter Black','Arial, sans-serif';
     font-size: 54px;
     line-height: 58px;
     margin: 0 0 40px;
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .intro__title{
         font-size: 32px;
         line-height: 35px;

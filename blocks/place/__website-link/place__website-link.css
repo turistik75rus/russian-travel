@@ -1,5 +1,5 @@
 .place__website-link{
-    font-family: 'Inter Regular';
+    font-family: 'Inter','Arial, sans-serif';
     font-size: 18px;
     line-height: 22px;
     text-decoration-line: underline;
@@ -9,5 +9,4 @@
 .place__website-link:hover{
     color: #FFFFFF;
     opacity: 0.8;
-    text-decoration-line: underline;
 }

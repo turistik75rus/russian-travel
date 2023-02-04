@@ -3,29 +3,24 @@
     padding-top: 28px;
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
     width: 1184px;
-    height: 52px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
     .header{
         width: 928px;
-        height: 52px;
     }
   }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
     .header{
         width: 720px;
-        height: 52px;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
     .header{
         width: 288px;
-        height: 42px;
         padding-top: 18px;
     }
 }
