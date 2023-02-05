@@ -1,4 +1,9 @@
 .place__image{
     width: 100%;
-    object-fit: initial;
+}
+
+@media screen and (max-width: 767px) {
+    .place__image{
+        transform: scale(1.112);
+    }
 }

@@ -1,8 +1,8 @@
 .place__title{
     margin: 0;
-    font-family: 'Inter Black','Arial, sans-serif';
     font-size: 72px;
     line-height: 76px;
+    font-weight: 900;
 }
 
 @media screen and (max-width: 1023px) {
